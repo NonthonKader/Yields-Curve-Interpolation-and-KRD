@@ -1,5 +1,7 @@
 # Yield Curve Interpolation Techniques and Key Rate Duration Analysis
 
+This study has been realized in the context of my advanced fixed income class, with Professor Thibault Lair, Quantitative Researcher at Robeco.
+
 This work draws on the Harvard Business School case study “Deutsche Bank: Finding Relative-Value Trades,” which examines the strategic and analytical operations of Deutsche Bank’s Fixed Income Research Group, led by Jamil Baz in August 2003.
 
 The Fixed Income Research Group holds a pivotal role at Deutsche Bank, uncovering opportunities in bond markets and interest rate derivatives. Balancing long-term macroeconomic perspectives with short-term, actionable trade ideas, the team uses a proprietary three-factor yield curve model to evaluate U.S. Treasury bonds and identify relative-value trades. Their aim is to detect mispriced assets that can yield profitable returns.
