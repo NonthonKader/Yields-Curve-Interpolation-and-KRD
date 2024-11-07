@@ -1,4 +1,4 @@
-# Yields Curve Interpolations techniques and Key Rates Duration analysis
+# Yield Curve Interpolation Techniques and Key Rate Duration Analysis
 
 This work draws on the Harvard Business School case study “Deutsche Bank: Finding Relative-Value Trades,” which examines the strategic and analytical operations of Deutsche Bank’s Fixed Income Research Group, led by Jamil Baz in August 2003.
 
