@@ -1,6 +1,6 @@
 # Yield Curve Interpolation Techniques and Key Rate Duration Analysis
 
-This study has been realized in the context of my advanced fixed income class, with Professor Thibault Lair, Quantitative Researcher at Robeco.
+This study has been realized in the context of my advanced fixed income class taught by Professor Thibault Lair, Quantitative Researcher at Robeco.
 
 This work draws on the Harvard Business School case study “Deutsche Bank: Finding Relative-Value Trades,” which examines the strategic and analytical operations of Deutsche Bank’s Fixed Income Research Group, led by Jamil Baz in August 2003.
 
